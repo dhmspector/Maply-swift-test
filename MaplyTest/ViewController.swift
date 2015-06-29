@@ -72,6 +72,10 @@ class ViewController: UIViewController, WhirlyGlobeViewControllerDelegate, Maply
         self.addCountries()
         self.addBars()
         self.addSpheres()
+        
+        // comment this and the add building method out to compile w/out the CartoDB tutorial section
+        // you will also need to remove eh CartoDBLayer.swift file reference (else it will still compile
+        // and generate the errors wrt to the maxZoom/minZoom properties
         self.addBuildings()
     }
     

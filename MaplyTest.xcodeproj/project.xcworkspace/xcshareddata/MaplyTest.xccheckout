@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D989BC0C-1158-43F4-B5AB-8B923000F9CE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MaplyTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A9047F511BA0185D4BF30956406D77BE1FB38E9F</key>
+		<string>https://github.com/dhmspector/Maply-swift-test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MaplyTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A9047F511BA0185D4BF30956406D77BE1FB38E9F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dhmspector/Maply-swift-test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A9047F511BA0185D4BF30956406D77BE1FB38E9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A9047F511BA0185D4BF30956406D77BE1FB38E9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MaplyTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
